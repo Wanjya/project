@@ -8,14 +8,14 @@ body {
 
 .back-button {
   display: inline-block;
-  padding: 3px;
+  padding: 10px;
   background-color: #3333; /* 초록색 */
   color: white;
   text-decoration: none;
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  font-size: 8px;
+  font-size: 24px;
   font-weight: bold;
 }
 
